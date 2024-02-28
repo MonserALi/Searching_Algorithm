@@ -1,2 +1,2 @@
 # Searching
-binary interpolation and linear 
+Binary search , Interpolation search and Linear Search Into an Array   
